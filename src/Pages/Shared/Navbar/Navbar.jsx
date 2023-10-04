@@ -35,7 +35,7 @@ const Navbar = () => {
           <img src={icon} />
         </div>
       </label>
-    <Link>
+    <Link to="/login">
     <button className='btn bg-[#403F3F] px-10 rounded-sm text-white font-bold'>Login</button>
     </Link>
   </div>
